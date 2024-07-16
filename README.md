@@ -1,1 +1,3 @@
 # crun
+C-Run,
+As the name suggets, this is a simple script which will compile and run .c files. For now this script only supports normal compilation but will be updated over time...
