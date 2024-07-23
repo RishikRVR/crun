@@ -14,3 +14,5 @@ Options: (Script Specific)
   --update : Download and install the latest version of crun available online (wget is required)
 And all other 'make' options
 ```
+# Supported Operating Systems
+Only Linux And macOS Are Currently Supported
