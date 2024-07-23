@@ -11,8 +11,13 @@ sh crun --install
 Usage: crun <filename> [options] [target] ...
 
 Options: (Script Specific)
-  --update : Download and install the latest version of crun available online (wget is required)
-And all other 'make' options
+
+  --update  : Download and install the latest version of crun available online (wget is required)
+  --rm-old  : Delete previously cached compiled-binaries in the working directory
+  --help    : Print this message and exit.
+  --version : Print the version number of crun and exit.
+
+And all other 'make' options mentioned above as [options] [target] ...
 ```
 # Supported Operating Systems
 Only Linux And macOS Are Currently Supported
