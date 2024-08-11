@@ -12,10 +12,11 @@ Usage: crun <filename> [options] [target] ...
 
 Options: (Script Specific)
 
-  --update  : Download and install the latest version of crun available online (wget is required)
-  --rm-old  : Delete previously cached compiled-binaries in the working directory
-  --help    : Print this message and exit.
-  --version : Print the version number of crun and exit.
+  --update    : Download and install the latest version of crun available online (wget is required).
+  --rm-old    : Delete previously cached compiled-binaries in the working directory.
+  --uninstall : Uninstall crun.sh.
+  --help      : Print this message and exit.
+  --version   : Print the version number of crun and exit.
 
 And all other 'make' options mentioned above as [options] [target] ...
 ```
