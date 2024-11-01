@@ -1,5 +1,5 @@
 VERSION=2
-SUBVERSION=0
+SV=0
 IDENTIFIER=18883
 LINK=https://github.com/RishikRVR/crun/releases/download/V2/crun
 AddSH=
